@@ -4,7 +4,7 @@
   <groupId>org.huldra.math</groupId>
   <artifactId>bigint</artifactId>
   <packaging>jar</packaging>
-  <version>0.7</version>
+  <version>0.7.1</version>
   <name>BigInt</name>
   <url>http://maven.apache.org</url>
   <description>A class to beat the crap out of BigInteger!</description>
